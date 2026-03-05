@@ -1,7 +1,7 @@
 # Daily Task Log
 
 Project: YungDrip Web Platform
-Branch: dev/<your-name>
+Branch: dev/Vaishnavi 
 
 ---
 
@@ -55,24 +55,17 @@ Pick any task and update below.
 
 Write what you are working on.
 
-Name:
-Task:
-Status:
+Name:vaishnavi
+Task: till "create product page layout"
+Status: in progress
 
-Example:
-
-Name: Harshit  
-Task: Next.js setup  
-Status: In progress
-
----
 
 ## End of Day Update
 
-Date:
+Date:05/03/26
 
-What done today:
+What done today:pushed the assigned tasks into my branch
 
-Issues:
+Issues:-
 
-Next plan:
+Next plan:-
